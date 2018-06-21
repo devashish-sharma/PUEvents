@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:visibility="visible"
+    app:layout_collapseParallaxMultiplier="0.9"
+    tools:context="com.example.devashishsharma.bottomnavigation.ProfileActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/app_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profileimage"
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:layout_marginTop="5dp"
+                android:layout_gravity="center"
+                android:src="@drawable/event2"/>
+
+            <TextView
+                android:id="@+id/pemail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Email" />
+
+            <TextView
+                android:id="@+id/pfname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="FullName" />
+
+            <TextView
+                android:id="@+id/pmobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="MobileNo" />
+
+            <TextView
+                android:id="@+id/pcity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+
+                android:gravity="center"
+                android:text="City" />
+
+            <TextView
+                android:id="@+id/puni"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="University" />
+
+            <TextView
+                android:id="@+id/pgender"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Gender" />
+
+            <TextView
+                android:id="@+id/ppass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Password" />
+
+            <Button
+                android:id="@+id/updateprofile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Update Profile" />
+
+            <Button
+                android:id="@+id/updatepassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Update Password" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

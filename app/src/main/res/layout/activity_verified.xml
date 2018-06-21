@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bn"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.example.devashishsharma.bottomnavigation.VerifiedActivity">
+
+    <EditText
+        android:id="@+id/v1"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:drawableStart="@drawable/ic_call_black_24dp"
+        android:gravity="center"
+        android:hint="Enter Mobile No"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:drawableLeft="@drawable/ic_call_black_24dp" />
+
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_green"
+        android:text="Get Verification Code"
+        android:textColor="@android:color/white" />
+
+    <EditText
+        android:id="@+id/v2"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:drawableStart="@drawable/ic_verified_user_black_24dp"
+        android:gravity="center"
+        android:hint="Enter Verification Code"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white" />
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_green"
+        android:text="Sign In"
+        android:textColor="@android:color/white" />
+</LinearLayout>

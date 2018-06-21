@@ -1,0 +1,762 @@
+<resources>
+    <string name="app_name">PUEvents</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="Kabaddi">
+
+          Kabaddi, a contact sport that originated in ancient India, is one of the most popular sports in India, played mainly among people in villages.
+        \nTeam Size: 12 \nType: inter \nRules:
+        \nThere should be 12 members in a team.
+       \nMatch duration 40 minutes.
+        \nThere should be 12 members in a team.
+        \nMatch duration 40 minutes.
+        \nBonus points, touch points, tackle points and all out points will be counted,
+        \nMin raid should be of 30 seconds.
+        \nOne player is allowed to raid 3 times consequently.
+        \nRaider must continuously yell the word kabaddi.
+        \nRaider must cross the half line.
+        \nParticipants have to carry their College ID-CARDS.
+        \nBonus points, touch points, tackle points and all out points will be counted,
+        \nMin raid should be of 30 seconds.
+        \nOne player is allowed to raid 3 times consequently.
+        \nRaider must continuously yell the word kabaddi.
+        \nRaider must cross the half line.
+        \nParticipants have to carry their College ID-CARDS.
+        \nWinner Price: ₹ 5100
+        \nRunner Up Price: ₹ 2100
+        \nEntry Fees: ₹ 1000(Per Team) \n\n\n
+
+    </string>
+
+    <string name="BoxCricket_Boys_girls_Inter">
+        Fun event for all the cricket fans. It is a small scale cricket game which comprises of underarm bowling only.
+         \nTeam Size: 8 \nType: intra \nRules:
+        \nEach team have playing 6 members of the team and 2 substitutes.Underarm ball will be allowed.
+         \nThere will be a challenging over between over 3- 5. If challenge completed, runs will get doubled otherwise deducted.
+        6 over will be thrown by each side (maximum of 2 over per bowler).
+        \nThe match will be played by a tennis ball.
+        \nThe matches will be played on knock out basis.
+     \nThe decision made by the umpire decision will be treated as final.
+
+        \nWinning Price: ₹ 11000
+        \nRunner Up Price: ₹ 5100
+        \nEntry Fees: ₹ 1500(Per Team) \n\n\n
+
+    </string>
+
+
+    <string name="Boxcricket_Boys_Girls">
+        A fun event for all the cricket fans. It is a small scale cricket game which comprises of underarm bowling only.
+        \n\Team Size: 8 \nType: intra \nRules:
+        \nEach team have playing 6 members of the team and 2 substitutes. Underarm ball will be allowed.
+         \nThere will be a challenging over between over 3- 5. If challenge completed, runs will get doubled otherwise deducted.
+    6 over \nwill be thrown by each side (maximum of 2 over per bowler).
+    \nThe match will be played by a tennis ball.
+    \nThe matches will be played on knock out basis.
+    \nThe decision made by the umpire decision will be treated as final. \n\n\n
+
+    </string>
+
+    <string name="BasketBall_boys_girls">
+        The basketball game is an outdoor game with a combined mixture of mental ability, skills, practice, strength and interest. The game gives energy, confidence, and power to do work.
+        \nTeam Size: 8 \nType: intra \nRules:
+        \nAll rules of this game are followed by FIBA.
+        \nEvery team must have their jersey color code.
+        \nThere will 4 major rounds in the game.
+        \nMatch pool is decided by the committee.
+        \nOfficial ball will be used in the game.
+        \nDecision of referee is final.
+        \nParticipants have to carry their ID-CARDS. \n\n\n
+
+    </string>
+
+
+    <string name="BasketBall_boys_girls_inter">
+        The basketball game is an outdoor game with a combined mixture of mental ability, skills, practice, strength and interest. The game gives energy, confidence, and power to do work.
+        \nTeam Size: 12 \nType: inter \nRules:
+        Basketball team size- 12 players in each team (Inter)
+        \nAll rules of this game are followed by FIBA.
+        \nEvery team must have their jersey color code.
+        \nThere are 4 major rounds in the game.
+        \nMatch pool is decided by the committee.
+        \nOfficial ball will be used in the game.
+        \nDecision of referee is final
+        \nParticipants have to carry their college ID-CARDS.
+        \nOn the spot registration is available. \n\n
+
+        \nWinner Price: ₹ 5100
+        \nRunner up Price: ₹ 2100
+        \nEntry Fees: ₹ 1000(Per Team) \n\n\n
+    </string>
+
+    <string name="Chess_boys_girls">
+        Chess is a two-player strategy board game played on a chessboard, a checkered gameboard with 64 squares arranged in an 8×8 grid. The game is played by millions of people worldwide.
+        \nTeam Size: 1 \nType: intra \nRules:
+        \nTotal time of one match-10 mins
+        \nEach one will get exactly 5 min and will be checked through dual Stop-Watch.
+        \nWinner will be selected in each round on the basis of maximum no. of points.
+        \nStudent should Bring his/her ID card else they will be disqualified or get rejected.
+        \nReport on Time else absent will be Marked.
+        \nIn case of draw, five more min will be allocated.
+        \nNo time limit for Final Match.
+        \nRules of game will be international Standard.
+\n\n\n
+    </string>
+
+    <string name="Football">
+        Football is a family of team sports that involve, to varying degrees, kicking a ball with a foot to score a goal.
+        \nTeam Size: 10 \nType: Inter \nRules:
+        \nThe match will be played 7 a-side
+        \nRules will be normal as per the official norms
+        \nSports gear will be compulsory.
+        \nStuds is must.
+        \nOutside will be taken out by leg only and Corner will be taken from center-line’s corner.
+        \n3 substitutes are allowed (with circular substitution)
+        \nPenalty will be taken from the center line with no goal keeper.
+        \nMax. 1 bounce is allowed for the ball to score a goal.
+        \nParticipants have to carry their ID-CARDS.
+        \nWinner Price: ₹ 11000
+        \nRunner Up Price: ₹ 5100
+        \nEntry Fees: ₹ 1500(Per Team) \n\n\n
+
+    </string>
+
+    <string name="Four_hundred">
+        A relay race is a racing competition where members of a team take turns completing parts of racecourse or performing a certain action.
+        \nTeam Size: 4 \nType: intra \nRules:
+        Number of Round: 1
+        \nParticipants must reach the ground 10 min before otherwise they will be disqualified.
+        \nDo not start before the flapping sound
+        \nStay in Your Lane.
+        \nParticipants have to carry their ID-CARDS. \n\n\n
+    </string>
+
+    <string name="Two_Hundred">
+        The 200 metres (also spelled 200 meters) is a sprintrunning event. On an outdoor race 400 m track, therace begins on the curve and ends on the home straight, so a combination of techniques are needed to successfully run the race.
+        \nTeam Size: 1 \nType: intra \nRules:
+        Number of Round: 1
+        \nParticipants must reach the ground 10 min before otherwise they will be disqualified.
+        \nDo not start before the flapping sound
+        \nStay in Your Lane.
+        \nParticipants have to carry their ID-CARDS. \n\n\n
+
+    </string>
+
+    <string name="TableTennis_boys_girls">
+    Table Tennis is a sport in which 2 players hit a lightweight ball back and forth using table tennis racket. The game takes place on a hard table divided by net.
+    \nTeam Size: 1 \nType: intra \nRules:
+    For participation, ID-card is necessary.
+    \nThe event is for individual participants only.
+    \nOverall competition will be on knockout basis.
+    \nSeparate winners and runner-ups will be there.
+    \nOn the Spot registration is not allowed.
+    \nThe decision of Event adviser/Coordinator/Volunteer will be considered as final.
+    \nRound classification-depends upon registrations. \n\n\n
+
+    </string>
+
+    <string name="VollyBall_boys_girls">
+        Volleyball is a team event comprising of two teams with six players each and separated by a net. Each team tries to score points by grounding a ball on the other team court under the designed rules.
+        \nTeam Size: 8 \nType: intra \nRule:
+    6 players will play at a time in the team on the- 3 in the front row and 3 in the back row
+    Matches will be made up of sets; the number depends on the level of play. 3-set matches are classified as 2 sets of 25 points and the third set to 15.
+    Each set must be won by two points.
+    The winner will be the first team to win 2 sets.
+    Participants have to carry their ID-CARDS. \n\n\n
+
+    </string>
+
+    <string name="VolleyBall_boys_girls_inter">
+        Volleyball is a team event comprising of two teams with six players each and separated by a net. Each team tries to score points by grounding a ball on the other team court under the designed rules.
+        \nTeam Size: 12 \nType: inter \nRules:
+        6 players will play at a time in the team on the- 3 in the front row and 3 in the back row
+        \nMatches will be made up of sets; the number depends on the level of play. 3-set matches are classified as 2 sets of 25 points and the third set to 15.
+        \nEach set must be won by two points.
+        \nThe winner will be the first team to win 2 sets.
+        \nParticipants have to carry their college ID-CARDS.
+        \nOn the spot registration is available. \n\n
+        \nWinner Price: ₹ 11000
+        \nRunner up Price: ₹ 5100
+        \nEntry Fees: ₹ 1500(Per Team) \n\n\n
+    </string>
+
+    <string name="Hundred_M_Race">
+        The 100 metres, or 100 metre dash, is a sprint race in track and field competitions. The shortest common outdoor running distance, it is one of the most popular and prestigious events in the sport of athletics.
+        \nTeam Size: 1 \nType: intra \nRules:
+        Number of Rounds: 1
+        \nParticipants must reach the ground 10 min before otherwise they will be disqualified.
+        \nDo not start before the flapping sound
+        \nStay in Your Lane
+        \nParticipants have to carry their ID-CARDS. \n\n\n
+    </string>
+
+    <string name="SackRace_boys_girls">
+            The sack race or gunny sack race is a competitive game in which participants place both of their legs inside a sack or pillow case that reaches their waist or neck and hop forward from a starting point toward a finish line. The first person to cross the finish line is the winner of the race.
+            \nTeam Size: 1 \nType: intra \nRules:
+            \nParticipants must reach the ground 10 min before otherwise they will be disqualified.
+            \nParticipants have to carry their ID-CARDS.
+            \nOther information will be provided at the event time. \n\n\n
+
+        </string>
+
+    <string name="Shotput_boys_girls">
+        The shot put is a track and field event involving throwing putting a heavy spherical object—the shot—as far as possible.
+        \nTeam Size: 1 \nType: inter \nRules:
+        Participants must reach the ground 10 min before otherwise they will be disqualified.
+        \nShot put will be provided by the university.
+        \nOther information will be provided at the event time.
+        \nParticipants have to carry there ID-CARDS. \n\n\n
+
+    </string>
+
+
+    <string name="Riddlecon">  Let see speedy you are at ccracking puzzle, to challenge your \n general knowladge and your presence of mind. \n  \n Team Size: 1  Type: intra  Rules:\n  All Participants are required to present a valid student  \n identification card.  Participants should report sharp at 2:30PM.  The competition  will be carried out in three rounds:  1st Round : Logical and Reasoning Test(MCQ)  (2:45PM-3:15PM)  2nd Round : Algorithm of Real Life Task  Problems(3:15PM-4:15PM)  3rd Round : On the Spot Problem(4:15PM-5:00PM)  Each participant will be allowed to use a single PC only.  Use of mobile phones and internet during competition will lead
+        to disqualification.  Judges will be assigned to observe participant throughout the contest.
+        \n\n\n
+    </string>
+
+    <string name="Mini_Militia">  Mini Militia (DA2) is a free of play 2D shooter game released for android and IOS.
+        \nTeam Size: 6 (5 main players, however, teams are allowed to bring 1 player extra with them).
+        \n Type: inter.
+        \n Rules:
+        \n Game Type: CTF \n Map: will be decided on the spot.
+        \n New game will be installed no login.
+        \n There will be LAN connection.
+        \n There should be no pro pack.
+        \n No nicknames allowed.
+        \n Participants have to carry there ID-CARDS.
+        \n\n\n
+
+    </string>
+
+    <string name="Counter_strike"> Counter-Strike (CS) is a series of multiplayer first-person shooter video games, in which teams of terrorists battle to perpetrate an act of terror (bombing, hostage-taking) and counter-terrorists try to prevent it (bomb defusal, hostage rescue).
+        \nTeam Size: 6
+        \nType: inter
+        \nRules:
+        \nMap list
+
+\nThe following maps are used for the CS: GO tournament \n(Valve versions). The
+map pool will always be the Active Duty map pool and therefore might be updated
+
+\nde_dust2\n
+de_inferno\n
+de_cache\n
+de_train\n
+de_mirage\n
+de_cobblestone\n
+de_overpass\n
+de_nuke\n
+Materials Players are expected to bring their own accessories:
+\n• Mouse, mousepad;
+\n• Keyboard (make sure to bring and test your own ps2-converter);
+\n• Headphones.
+
+
+
+\nServer settings
+The following game settings will be used:\n
+mp_startmoney 800\n
+mp_roundtime 1.75\n
+mp_freezetime 15\n
+mp_maxrounds 30\n
+mp_c4timer 35\n
+sv_pausable 1\n
+        \n\n\n
+    </string>
+
+    <string name="Robo_soccer_inter">This event is a platform for participants to showcase their robotics talents and also to bring alive the football spirit. They are required to build two manually controlled bots capable of playing soccer on an arena specially designed for the robotic soccer match.
+    \n Team Size: 3 \n Type: Inter \n Rules: \n
+    Each team will have to defend the goal on its side as well as score the goals on the opposite side.
+    \n Each team can have a max of 3 team members. The weight limit of the robot for the competition is 5 kg.
+    \n The robot must not exceed each side more than 25 cm.
+    \n The game will start at the count of 3 given by referee, followed by whistle. In case a team starts its robot before the whistle, \n the game will be restarted and a team making this mistake for \n more than 3 times will be disqualified.
+    \n The field diagram will be uploaded on the website soon.
+    \n The ball can be either dragged or pushed by the team, but it should not hold the ball.
+    \n Each goal scored by a team by rolling the ball on the ground will fetch the team ONE POINT.
+    \n The voltage at any point on the electrical connections should not exceed 12 V DC.
+    \n The game will last for 5 minutes and it will be divided into two halves.
+    \n Every round will be elimination round.
+    \n Maximum of two members per team will be allowed to remain close to field for operating the robots. In case of jam-up of robots’ for more than 30 seconds, \n the robots will have to kick-off again at the order of the referee.
+    \n In case of any discrepancy, the final decision rests in the hands of the judges.
+    \n Any act of misbehaviour or misconduct will lead to immediate expulsion.
+    \n The robots are not allowed to use grippers or actuations which are intended to harm to opponent robot.
+    \n Power supply will not be provided by the college,participants have to carry their own batteries with them.
+    \n Participants have to carry their college ID-CARDS.
+
+
+\nWinner Price: ₹ 2100 \n\n Entry Fees: ₹ 500(Per Team) \n\n\n
+
+    </string>
+
+    <string name="Counter_strick_inter"> Counter-Strike (CS) is a series of multiplayer first-person shooter video games, in which teams of terrorists battle to \n perpetrate an act of terror (bombing, hostage-taking) and \n counter-terrorists try to prevent it (bomb defusal, hostage \n rescue).
+        \n Team Size: 6 \n Type: Inter \n\n Rules:
+        \n Map list
+
+\n The following maps are used for the CS: GO tournament (Valve versions). The
+map pool will always be the Active Duty map pool and therefore might be updated
+
+\n de_dust2
+\n de_inferno
+\nde_cache
+\n de_train
+\n de_mirage
+\n de_cobblestone
+\n de_overpass
+\n de_nuke
+
+\n Materials Players are expected to bring their own accessories:
+\n • Mouse, mousepad;
+\n • Keyboard (make sure to bring and test your own ps2- converter);
+\n • Headphones.
+
+
+
+\n Server settings
+\n The following game settings will be used:
+\n mp_startmoney 800
+\n mp_roundtime 1.75
+\n mp_freezetime 15
+\n mp_maxrounds 30
+\n mp_c4timer 35
+\n sv_pausable 1
+
+\n NOTE:Participants have to carry there ID-CARDS.
+
+\n Winner Price: ₹ 11000
+
+\n Entry Fees: ₹ 1500(Per Team) \n\n\n
+    </string>
+
+
+    <string name="Error404">This is the event in which the participant will solve the riddle by clicking the correct alphabetic folder.
+        The main screen will have the riddles folder each riddle
+        will have a answer and the participant will only be  able to score if he she selects the correct
+        alphabetical folder in the correct \n alphabetical sequence of the answer.
+        \n Team Size: 1 \n Type: intra \n Rules:
+        \n All Participants must have university student identification card.\nParticipants must report
+        10 min prior to the start of event.
+    \n Each participant will be allowed to use single pc only.
+    \n Use of mobile phones and internet during competition will lead to disqualification.
+    \n Referees will be assigned to observe participant throughout the contest and report any problems and/or
+        violations of the \n rules to the Contest Committee. \n\n\n
+
+
+    </string>
+
+    <string name="Group_Dance_Intra">
+Group dance are danced by groups of people simultaneously, as topposed to individuals dancing
+        alone or individually, and as opposed to
+        couples dancing together but independently of others dancing at the same time, if any.
+\nJUDGEMENT CRITERION:-
+ \nChoreography – 20
+\n Stage Presence- 20
+ \nCrowd Response -20
+ \nCo-ordination – 25
+\n Costumes and Props – 10
+ \nMusic Selection – 5
+\nRULES, REGULATIONS and IMPORTANT GUIDELINES:-
+\nThe participants should select a song of their choice,which must not contain any vulgar lyrics.
+     \n   Non-compliance will result in AUTOMATIC DISQUALIFICATION.
+\nTeam size: 5-8 participants
+\nSongs will be finalized by Event Advisor only after Prelims.
+\nThe time of the performance should not exceed 4-5 minutes.\nCostumes must be decent and appropriate for the competition.
+        \nParticipants have to arrange costumes and accessories on their own.
+In case of any loss of costumes or accessories, organizing committee will not be responsible, so students have to take
+        care of their belongings on their own.\nIt is the contestant’s responsibility to signify their presence one hour before the
+        competition. If any member of the team
+        will not be available at the time, the respective team will be disqualified.\nThere will be a Sound system
+        provided at the
+        stage and we will not provide any other instruments and accompanists.\nThe decision of Judges will be final and binding.
+        The organizing Committee reserves
+        the right to change the venue, time and rules, if desired.\nMaximum 8 members are tallowed in a Team.Every participant
+        must bring their
+        college ID-Card, Otherwise they will not be allowed to participate.
+        \n\n\n
+    </string>
+    <string name="Nukkad_Natak">
+        DESCRIPTION
+        \nNukkad Natak is a form of theatrical performance and presentation in outdoor public spaces
+        without a specific paying audience.These spaces can be anywhere, including shopping centres, car parks,
+        recreational reserves,college or\n university campus and street corners.
+\nJUDGEMENT CRITERION:-
+\n1. Props
+2. Script
+3. Acting
+4. Expression
+5. Social Message
+\nRULES, REGULATIONS and IMPORTANT GUIDELINES:-
+\n1. Time limit for each act is 10 minute.
+2. The first warning bell will ring at the8th minute.
+3. Each team will bring its own props.
+4. The maximum number of participants in a team should not be more than 8.
+5. The theme has to be registered at the time of registration
+6. Abusive and saddest action would lead to disqualification.
+7. Use of offensive language or words against any specific person, Indian
+8. No mic or sound will be provided
+\nPLEASE NOTE:-
+Participants have to submit the script
+        before prelims.The prelims performance and the final performance must be indistinguishable, or there shall be
+        an on the spot disqualification of the team from the competition.
+\nParticipants have to carry there ID-CARDS.
+\nTeam size:6-8
+\nScreening Criterion :–
+\nSocial message.
+Constitution, religion or caste will result into elimination.
+\n\n\n
+
+    </string>
+    <string name="singing_duet_intra">
+       DESCRIPTION
+\nA duet is a musical composition for two performers in which the performers have
+        equal importance to the piece, often a composition involving two singers.
+        It differs from a harmony, as the performers take turns performing a solo section
+        rather than performing simultaneously.
+
+\n\nRULES-REGULATIONS-
+\nThe participant can select song or songs of their choice as
+        longer as it represents the theme.
+The song or songs must not contain any vulgar lyrics.
+        \nNon-compliance will result in automatict disqualification.
+The time of the performance should not exceed 4-5 minutes.
+Both participants have to sing in the allotted time.
+        \nThe extension will result in deduction of marks.
+\nIt is the contestant’s responsibility to stignify their
+        presence one hour before the competition. If any member
+        of the team will not be available at the time, the respective
+        team will be disqualified.
+There will be a Sound system provided at the stage and we will
+        not provide any other instruments or accompanists.
+Any contestant guilty of distracting any of the other contestants while they are performing shall be disqualified.
+\nEach contestant shall be judged by the following criteria Singing Ability
+\nAppearance (Costume or attire)
+Stage Presence (Movement/confidence/command).
+Knowledge of the Song (remember the words and melody).
+Overall impression
+The decision of Judges will be final and binding.
+\nEvery participant must bring their college ID-Card, otherwise they will not be allowed to participate.
+
+\nPLEASE NOTE:-
+\nParticipants have to submit the song name before prelims
+The prelims performance and the final performance must be indistinguishable, or there shall
+        be an on the spot disqualification of the team.
+        \n\n
+    </string>
+    <string name="War_of_DJ_Inter">
+    DESCRIPTION
+\nThe fire was mainly fuelled by a heavy dose of music from the mixers and turntables of the warring DJ.
+        \nJUDGEMENT CRITERION:-
+
+  \nStage Presence
+  \nCrowd Response
+  \nCo-ordination
+ Music Selection
+
+\nRULES, REGULATIONS and IMPORTANT GUIDELINES:-
+\nINSTRUCTIONS:-
+\nNo premixes of bootleg allowed.\n
+There will be minimum 4 minutes given to each team and maximum 7 minutes
+Participant need to remix song on virtual DJ(software).\nHost College will provide only
+        3.5mm pin and sound system
+Misbehaviour will lead to disqualification.
+\nPLEASE NOTE:-
+\nThe prelims performance and the final performance must be indistinguishable, or there shall
+        be an on the spot disqualification of the team from the competition.
+
+        \nWinner Price: ₹ 2100
+\nRunner up Price: ₹ 1100
+\nEntry Fees: ₹ 500(Per Person)
+        \n\n\n
+    </string>
+    <string name="Group_Dance_Inter">
+        DESCRIPTION
+\n\nGroup dance are danced by groups of people simultaneously, as opposed to individuals dancing alone
+        or individually, and as opposed to couples dancing together but independently of others dancing at the same time, if any.
+
+\nJUDGEMENT CRITERION:-
+ \nChoreography – 20
+ Stage Presence- 20
+ Crowd Response -20
+ Co-ordination – 25
+ Costumes and Props – 10
+ Music Selection – 5
+\nRULES, REGULATIONS and IMPORTANT GUIDELINES:-
+\nThe participants should select a song of their choice, which must not contain any vulgar lyrics. Non-compliance will
+        result in AUTOMATIC DISQUALIFICATION.
+Songs will be finalized by Event Advisor only after Prelims.
+The time of the performance should not exceed 4-5 minutes.
+Costumes must be decent and appropriate for the competition. Participants have to arrange
+        costumes and accessories ton their own.
+In case of any loss of costumes or accessories, organizing committee will
+        not be responsible, so students have to take care of their belongings on their own.
+It is the contestant’s responsibility to signify their presence one hour before the competition.
+        If any member of the team will not\n be available at the time, the respective team will be disqualified.
+There will be a Sound system provided at the stage and we will not provide any other instruments or accompanists.
+The decision of Judges will be final and binding.
+The organizing Committee reserves the right to change the venue, time and rules, if desired.
+\nTeam size:4-9
+\nEvery participant must bring their college ID-Card, Otherwise they will not be allowed to participate.
+\nPLEASE NOTE:-
+\nParticipants have to submit the music in pen Drive before prelims
+The prelims performance and the final performance must be indistinguishable, or there shall be an on the spot
+        disqualification of the team from the competition.
+\nScreening Criterion :-
+\nTheme Interpretation
+Choreography
+Costume Designs
+
+\nWinner Price:  ₹ 11000
+Runner Up Price: ₹ 5100
+Entry Fees: ₹ 1500(Per Team)
+        \n\n\n
+    </string>
+    <string name="Singing_Duet_Inter">
+        DESCRIPTION
+\nA duet is a musical composition for two performers in which the performers have equal importance to the piece,
+        often a composition involving two singers or two pianists. It differs from a harmony, as the performers take turns
+        performing a solo section rather than performing simultaneously.
+
+\nJUDGEMENT CRITERION
+\n1. Pitch
+\n2. Pronunciation
+\n3. Creativity
+\n4. Performance
+\nRULES, REGULATIONS and IMPORTANT GUIDELINES:-
+
+\nThe participant can select song or songs of their choice as longer as it represents the theme.
+The song or songs must not contain any vulgar lyrics. Non-compliance will result in automatic disqualification.
+The time of the performance should not exceed 4-5 minutes.
+Both participants had to sing in the allotted time. The extension will result in deduction of marks.
+It is the contestant’s responsibility to signify their presence one hour before the competition. If any member of the team
+        will not be available at the time, the\n respective team will be disqualified.
+There will be a Sound system provided at the stage and we will not provide any other instruments or accompanists.
+Any contestant guilty of distracting any of the other contestants while they are performing shall be disqualified.
+Each contestant shall be judged by the following criteria
+Singing Ability
+\nAppearance (Costume or attire)
+Stage Presence (Movement/confidence/command).
+Knowledge of the Song (remember the words and melody).
+Overall impression
+T\nhe decision of Judges will be final and binding.
+Every participant must bring their college ID-Card, Otherwise they will not be allowed to participate.
+
+\nWinner Price:  ₹ 2100
+Runner Up Price: ₹ 1100
+Entry Fees: ₹ 500(Per Team)
+        \n\n\n
+    </string>
+    <string name="Solo_Dance_Intra">
+        DESCRIPTION
+A solo dance is danced by an individual dancing alone.
+
+EXPRESS YOURSELF
+DANCE IS A BARE EXPERSSION OF SOUL. LETS BE FREE AND EXPRESS YOURSELF IN WHICHEVER FORM YOU FEEL FREE.
+
+\nJUDGEMENT CRITERION:-
+\nStage Presence- 20
+\nEntertainment- 20
+\nCrowd Response -20
+\nFacial Expressions- 15
+\nCostume-10
+\nAttitude- 15
+\nGeneral instruction:-
+\nPerformance time: 2-3 minutes.
+
+\nRULES, REGULATIONS and IMPORTANT GUIDELINES:-
+The participants should select a song of their choice, which must not contain any vulgar lyrics.Non-compliance will
+        result in AUTOMATIC disqualification.
+Songs will be finalized by Event Advisor only.
+Costumes must be decent and appropriate for the competition. Participants have to
+        arrange costumes and accessories on their own.
+There will be extra points for appropriate costume according to theme.
+In case of any loss of costumes or accessories, organizing committee will not be responsible,
+        so students have to take care of their belongings on their own.
+It is the contestant’s responsibility to signify their presence one hour before the competition.
+        If any member of the team will not\n be available at the time, the respective team will be disqualified.
+There will be a Sound system provided at the stage and we will not provide any other instruments or accompanists.
+The decision of Judges will be final and binding.
+The organizing Committee reserves the right to change the venue, time and rules, if desired.
+Every participant must bring their college ID-Card, Otherwise they will not be allowed to participate.
+\nPLEASE NOTE:-
+\nParticipants have to submit the music in pen Drive before prelims
+The prelims performance and the final performance must be indistinguishable, or there shall be
+        \n an on the spot disqualification of the team from the competition.
+\nScreening Criterion: -
+\nChoreography
+Costume Designs
+        \n\n\n
+    </string>
+    <string name="Fashion_Show_Intra">
+        DESCRIPTION
+A fashion show is an event put on by a fashion designer to showcase his or her upcoming line of clothing.
+        In a typical fashion show, models walk the cat walk dressed in the clothing created by the designer.
+     The THEMES for fashion show are as follows
+\nThreads of Freedom: This theme is mainly related to women empowerment and to those at high risk of being trafficked
+        in society; it should provide an encouragement to those women and give them there lives back by social support.
+\nGothic Theme: Gothic is a post punk era and the clothing denotes rebellion. This theme involves dark colours,
+        loud music and models wearing heavy makeup. Fashion then characterizes extravagances.
+
+\nNature Artistry: As nature has many faces and it changes
+        itself with the season same as fashion, which is a perfect way to recharge one’s soul.
+        \n Taking inspiration from the nature gives a fresh perspective on design.
+\nJUDGEMENT CRITERION:-
+      \nMakeup - 20
+      \nAttire - 20
+      \nTheme Justification - 20
+      \nCo-ordination and use of props - 25
+      \nCrowd Response - 10
+      \nMusic Selection - 5
+\nRULES, REGULATIONS and IMPORTANT GUIDELINES:-
+\nTeam can have both boys and girls.
+Should bring all the necessary items required\n (clothes, mirror, makeup kits.)
+\nTime limit-10 min (including setup and performance both for prelims and elims.)
+Music tracks must be submitted at least a day before the final fashion show with their respective team’s name
+        in pen drives.
+No tube tops, no single strip tops,
+        dress should be knee length, no cleavage showing.Vulgarity is strongly prohibited,
+        \n dress should be of proper length and accurate according to theme. Any form of obscenity will
+        lead to debarring the team from the contest.
+Decision of the judges will be final and binding.
+\n Participants are advised to reach the venue for respective events 1 hour prior to the commencement of the event
+        for sound check.
+\nPLEASE NOTE:-
+Participants have to submit the music in CD and in pen Drive or before prelims
+The prelims performance and the final performance must
+        be indistinguishable, or there shall be an on
+        the spot disqualification of the team from
+        the competition.Participants have to carry there
+        ID-CARDS.\nTeam size:8-14\n
+\nSCREENING CRITERIAN :-
+\nPRELIM
+Theme  description  should be there
+Background music
+Use of props
+ It’s mandatory for the girls to walk in heels.
+ \nWill be judged on the basis of theme justification and coordination with music and walking style.
+
+Only those who are selected during prelims are allowed in elim.
+Will have to bring own attire and inventories.
+\n“Use of props is mandatory”.
+Team composition.
+\nFINALS/ MAINS
+Screened out teams of elims will face
+        the finals.Each team will get 15 minutes \n(12 min for walk + 3 min for questionnaire round asked by anyone in the jury).
+The judgement of the jury will be final and abide.Exceeding time limit will lead to negative points.
+Any “obscenity” on stage will lead to immediate disqualification.
+        \n\n\n
+    </string>
+    <string name="Fashionista_Intra">
+        DESCRIPTION
+ \n\nA designer, promoter, or follower of the latest fashions.
+\nRULES AND REGULATIONS:-
+
+\nHOLLYWOOD SERIES
+IT REFERS TO THE WEARING STYLE OF HOLLYWOOD SERIES.LIKE- LUCIFER,GAME OF THRONES ETC’s COSTUME AND WEARING STYLE.
+\nJUDGEMENT CRITERION:-
+\n Stage Presence- 20
+\n Crowd Response -20
+\n Co-ordination – 20
+\n Costumes and Props -20
+\n Walk – 10
+\n Theme depiction - 10
+
+The participants should select the costume style
+        and roles of their choice, which must not
+        contain any vulgar style costume. Non-compliance
+        will result in AUTOMATIC DISQUALIFICATION.
+Theme and background music will be finalized by
+        Event Advisor only and the contestants should
+        submit their respective roles and background
+        music before 2 days of the event.
+The presentators can use diminutive props for their presentation.(optional)
+The time of the performance should not exceed one minute.
+Costumes must be decent and appropriate for the competition.
+In case of any loss of costumes or accessories, organizing committee will not be
+        responsible, so students have to take care of their
+        belongings on their own.It is the contestant’s
+        responsibility to signify their presence one hour before \n the competition.If any member of the team
+        will not be available at the time, the respective team will be disqualified.
+There will be a Sound system provided at the
+        stage and we will not provide any other instruments
+        or accompanists.
+The decision of Judges will be final and binding.
+The organizing Committee reserves the right to
+        change the venue, time and rules, if desired.
+\nMaximum 4 members are allowed in a Team, in which
+        two members are going to present the dress code
+        according to the theme.
+Every participant must bring their college ID-Card,
+        Otherwise they will not be allowed to participate.
+\nTeam size:2-4
+\nPLEASE NOTE:-
+Participants have to submit the BACKGROUND MUSIC in CD and in pen Drive before two days of the event. The prelims performance and the
+        final performance must be indistinguishable, or there shall be an on the spot
+        disqualification of the team from the competition.
+\nScreening Criterion :-
+\nTheme Interpretation
+Costume Designs
+compatibility
+        \n\n\n
+    </string>
+
+    <string name="Workshop">\n 1) IOT workshop is conducted on 26 Feb 2018 and 27 Feb 2018 to Aware the students about Machine learning.
+\n\n2)	Ethical hacking Workshop is organized on 24 Feb 2018 for B.Tech(CT and IS)  6 Semester Students where the students learned the practical implementation of Malware Detection and Enumeration.
+
+\n\n3)	A Seminar was conducted on 9 March 2018 for the undergraduate students to share the information about higher studies outside India.
+
+\n\n4)	Seminar conducted for the BCA and B. Tech first and Second Year Students about Entrepreneurshipand innovative ideas for new startup projects by the CEO of WittyFeedltd..
+
+\n\n5)	Quiz competition held in two round first round is of multiple choice questions and second round is of quiz displayed on projector
+</string>
+
+
+    <string name="shortfilm">
+        Team Size: 4\n\n
+        Instructions :\n\n
+        A short film is any motion picture not long enough to be\n considered a feature film.
+        \n\nRULES AND REGULATIONS\n\n
+        The time limit must not exceed more than 5 mins it should be in between 3-5 min including credits.
+        Film should have unique name with meaningful moral.
+        Film start should not be too slow.
+        Good sound with clear words pronunciation.
+        Acting should be attractive.
+        Black and white without any reason is not accepted.
+        Team size should be between 3-4 members.
+        final submission and presentation of short film is on 7/3/18.
+        Short film shoot will be in campus only no outside area is allowed and if we found any then team will be disqualified.
+        Theme and concept of film should be different for all teams if we found any similarity then 2 points will be deducted.
+        Paticipants have to carry their ID-CARDS.
+    </string>
+
+    <string name="photography" formatted="true" translatable="true">
+        Team Size: 1\n\n
+        <b>Instructions :</b>\n
+
+    Take your photography skills to the next level.
+\n\n
+    <b>THEMES</b>\n\n
+        Black and white photography
+        Contrasting color photography
+        Long exposure photography
+        Time-lapse photography
+
+    \n\n<b>RULES AND REGULATIONS</b>\n\n
+        Each participant has to mail one photo of each categories to Bcamais16.vishal@poornima.edu.in and 2016csmohamad4737@poornima.edu.in
+        Best photo will be shortlisted for 2nd round.
+        The shortlisted participants will have to click the photographs of Lakshya 2018 events and upload them on Facebook with hashtag(#PuLakshya2018), while uploading photograph please mention your name.
+        Winner will be selected who will get the maximum likes and share
+        Participants has to carry there I-CARDS.
+        On April 5, 2018, pre selection round will be carried out and the list of selected participants will be displayed on April 6, 2018.
+        The Final round will be conducted on April 7, 2018.
+
+
+        No MOBILE photography is allowed
+        No Editing allowed
+        For preselection photos must be captured after the announcement of event.
+
+    </string>
+    <!-- Strings related to login -->
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wa"
+    android:orientation="vertical"
+    tools:context=".HomeScreen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/app_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize" />
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/profile"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:src="@drawable/puen" />
+    <TextView
+        android:id="@+id/uname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom"
+        android:padding="0dp"
+        android:text="About PU"
+        android:textColor="@android:color/white" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="180dp"
+            android:layout_height="200dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="180dp"
+                android:layout_height="200dp"
+                app:cardBackgroundColor="@android:color/transparent"
+                app:cardCornerRadius="2dp"
+                app:cardElevation="10dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:src="@drawable/pu" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center|bottom"
+                    android:padding="0dp"
+                    android:text="About PU"
+                    android:textColor="@android:color/white" />
+
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="180dp"
+            android:layout_height="200dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="180dp"
+                android:layout_height="200dp"
+                app:cardBackgroundColor="@android:color/transparent"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="10dp">
+
+                <ImageView
+                    android:id="@+id/ig1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:src="@drawable/pu_event" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|center"
+                    android:padding="0dp"
+                    android:text="About Events"
+                    android:textColor="@android:color/white" />
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

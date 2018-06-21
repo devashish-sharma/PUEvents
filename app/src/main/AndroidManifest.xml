@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.devashishsharma.bottomnavigation">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MEDIA_CONTENT_CONTROL" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/event2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/event2"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Guider_Screen_Activity" />
+        <activity
+            android:name=".Register_Activity"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".LoginPage" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".UserProfile" />
+        <activity android:name=".HomeScreen" />
+        <activity
+            android:name=".TabLakshyaActivity"
+            android:label="PUEvents"
+            android:theme="@style/AppTheme" />
+        <!-- //sports -->
+        <activity android:name=".BoxCricket_Boys_Girls" />
+        <activity android:name=".Boxcricket_Boys_Girls_Inter" />
+        <activity android:name=".VolleyBall_Boys_Girls_Inter" />
+        <activity android:name=".VolleyBall_Boys_girls" />
+        <activity android:name=".BasketBall_Boys_Girls" />
+        <activity android:name=".BasketBall_Boys_Girls_Inter" />
+        <activity android:name=".Chess_Boys_Girls" />
+        <activity android:name=".FootBall_Inter" />
+        <activity android:name=".Four_Hundred_M_Race_Boys_Girls" />
+        <activity android:name=".Hundred_M__Race_Boys_Girls" />
+        <activity android:name=".Sack_Race_Boys_Girls" />
+        <activity android:name=".Kabaddi_Boys_Inter" />
+        <activity android:name=".Shot_Put_Boys_Girls" />
+        <activity android:name=".Table_Tennis_Boys_Girls" />
+        <activity android:name=".Two_Hundred_M_Race_Boys_Girls" />
+        <!-- //technical -->
+        <activity android:name=".Riddlecon" />
+        <activity android:name=".Mini_Militia" />
+        <activity android:name=".Counter_Strick_Inter" />
+        <activity android:name=".Counter_Strike" />
+        <activity android:name=".Robo_soccer_inter" />
+        <activity android:name=".Error404" />
+        <!-- //cultural -->
+        <activity android:name=".group1" />
+        <activity android:name=".nukkad" />
+        <activity android:name=".singing" />
+        <activity android:name=".dj" />
+        <activity android:name=".group2" />
+        <activity android:name=".singing2" />
+        <activity android:name=".solo" />
+        <activity android:name=".fashionshow" />
+        <activity android:name=".fashioninsta" />
+        <activity android:name=".TechFestActivity" />
+        <activity android:name=".VerifiedActivity" />
+        <activity android:name=".UserDetailFirebase" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".UpdatePassword" />
+        <activity android:name=".CustomToast" />
+        <!--club-->
+        <activity android:name=".ShortFilm" />
+        <activity android:name=".Photography_inter" />
+    </application>
+
+</manifest>

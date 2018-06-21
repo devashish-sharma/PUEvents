@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center|start"
+    android:textColor="@android:color/white"
+    android:text="dev"
+    android:drawableStart="@drawable/ic_device_hub_black_24dp"
+    android:padding="10dp"
+    android:drawableLeft="@drawable/ic_device_hub_black_24dp" />

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Light_gray"
+    android:orientation="vertical"
+    tools:context=".BasketBall_Boys_Girls">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize">
+
+        <include
+            android:id="@+id/app_toolbar"
+            layout="@layout/app_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="380dp"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/basketball" />
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="190dp"
+            android:layout_height="match_parent"
+            app:cardBackgroundColor="@android:color/white">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:drawableLeft="@mipmap/ic_launcher_location"
+                android:gravity="center"
+                android:text="Location"
+                android:textSize="15dp" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="190dp"
+            android:layout_height="match_parent"
+            app:cardBackgroundColor="@android:color/white"
+            app:cardElevation="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:drawableLeft="@mipmap/ic_launcher_time"
+                android:gravity="center"
+                android:text="Date"
+                android:textSize="15dp" />
+
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="380dp"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="28dp"
+                android:scrollbarStyle="outsideInset"
+                android:text="Basketball Intra"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textColor="@color/Dark"
+                android:textSize="15dp" />
+
+
+            <android.support.v4.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp">
+
+                <me.biubiubiu.justifytext.library.JustifyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="18dp"
+                    android:text="@string/BasketBall_boys_girls">
+
+                </me.biubiubiu.justifytext.library.JustifyTextView>
+
+            </android.support.v4.widget.NestedScrollView>
+
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</LinearLayout>
